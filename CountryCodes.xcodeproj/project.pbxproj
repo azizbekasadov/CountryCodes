@@ -51,6 +51,7 @@
 		5D101836297815AF006742D1 /* CountryCodesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryCodesUITests.swift; sourceTree = "<group>"; };
 		5D101838297815AF006742D1 /* CountryCodesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryCodesUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5D10184B297816B5006742D1 /* countryCodes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countryCodes.json; sourceTree = "<group>"; };
+		5D58FC4C29795E5B00BBB141 /* TASK.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TASK.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		5D101809297815AA006742D1 = {
 			isa = PBXGroup;
 			children = (
+				5D58FC4C29795E5B00BBB141 /* TASK.md */,
 				5D101814297815AB006742D1 /* CountryCodes */,
 				5D10182B297815AF006742D1 /* CountryCodesTests */,
 				5D101835297815AF006742D1 /* CountryCodesUITests */,
